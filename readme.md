@@ -1,0 +1,3 @@
+# UFC Weight Analysis
+*With this program, you can know the best weight class for you and your fight style based on your height*
+Using the data from Kaggle, i found a data about every statistic of every fights in the UFC. Those statistics include the characteristics and the performance analytics of every round of every fighters. From that data using Python, I created a statistical view where you can input your height and weight so you can view your most suitable fighting style (whether it is striking or grappling). You can also find your most suitable weight class by comparing it to the pro fighters with your height prefered weight class.
